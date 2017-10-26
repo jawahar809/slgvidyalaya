@@ -1,0 +1,58 @@
+body{margin:0;padding:0;font-family:'Roboto',sans-serif}
+.activities{width:1250px;height:900px;;background:gre;margin:80px auto;margin-left:-50px;margin-bottom: -20px;;font-family:'Bree Serif',sans-serif}
+.subact{width:22%;height:36%;background:grey;border-radius:20%;float:left;margin-right:30px;font-family:'Roboto',sans-serif}
+.subcat p{margin-top:10px;color:#fff;;font-family:'Roboto',sans-serif}
+.subcat h6{color:#fff;margin-top:14px;font-weight:;text-align:center;font-size:18px;font-family:'Roboto',sans-serif}
+.img{width:80%;height:40%;background:;margin:-15px auto;border-radius:3px;box-shadow: 1px 1px 3px 3px #71BE41;}
+.img img{width:100%;height:100%;border-radius:3px;box-shadow: 1px 1px 3px 3px lightgrey;}
+.glimpses{width:1250px;height:900px;;background:gre;margin:-20px auto;margin-left:-50px;margin-bottom: -20px}
+.left{width:40%;height:100%;background:lightgre;float:left;margin-top:-20px;}
+.ltop{width:100%;height:45%;background:blu;float:left;}
+.lbottom{width:100%;height:45%;background:gree;float:left;margin-top:90px;}
+.first{width:70%;height:50%;background:gre;float:right;border-top:8px solid #F3D322;border-right:8px solid #F3D322;}
+.second{width:70%;height:90%;background:#6DBE45;margin-top:31px;margin-left:5px;border:8px solid #F3D322;border-radius:8px ;}
+.third{width:30.5%;height:10px;background:#F3D322;float:right;margin-top:-200px;}
+.top{width:1.5%;height:9%;background:#F3D322;float:left;margin-left:29.1%;margin-top:px;}
+
+.middle{width:20%;height:100%;background:pin;float:left;margin-top:-20px;}
+.right{width:40%;height:100%;background:lightgre;float:right;margin-top:-20px;}
+.rfirst{width:70%;height:50%;background:gre;float:right;border-top:8px solid #F3D322;border-left:8px solid #F3D322;}
+
+
+.another_activity{width:1200px;height:500px;;background:gre;margin:0px auto;margin-left:-50px;margin-bottom: -20px}
+.aleft{width:48%;height:100%;background:pin;float:left;}
+.aleft p{font-size: 18px;line-height:25px;font-family: sans-serif;margin-left:40px;}
+.aright{width:52%;height:100%;background:pin;float:right;}
+.small{width:30px;height:30px;;margin-top:10px;margin-left:50px;}
+
+
+.about{width:1200px;height:650px;;background:gre}
+.lefta{width:48%;height:100%;background:pin;float:left;font-family: sans-serif;}
+.righta{width:48%;height:100%;background:pin;float:right;}
+.image{width:70%;height:40%;background:blu;margin:50px auto;}
+.images{width:50%;height:45%;background:blu;margin:50px auto;}
+
+
+.event{width:1200px;height:650px;;background:gre}
+.event h1{color:#008000;text-align:center;}
+.eleft{width:48%;background:blu;height:90%;float:left;margin-top:10px;}
+.esub{width:100%;height:49%;background:re;float:left;}
+.esub img{width:100%;height:100%;}
+
+.eright{width:48%;background:blu;height:90%;float:right;margin-top:10px;}
+
+
+.large{width:250px;height:250px;background:#6DBE45;float:left;margin:0 auto;margin-top:90%;margin-left:140%;border:7px solid #F3D322;color:black;}
+.large h5{margin-top:50px ;text-align:left;margin-left:10px;font-size:20px;margin-top:-40px;color:black;}
+.large h6{font-size:14px;text-align: justify;margin-left:5px;margin-right: 5px;margin-top: -15px;color:black;}
+.sublarg{width:98%;height:70%;background:#F3D322;margin:-18% 31%;border-top:5px solid #F3D322;border-right:7px solid #F3D322;border-bottom-left-radius: 7px solid #F3D322;}
+.sublar{width:98%;height:70%;background:#F3D322;margin:-18% -18%;border-top:5px solid #F3D322;border-left:5px solid #F3D322;border-bottom-right-radius: 5px !important;}
+.larg{width:250px;height:250px;background:#977F2B;float:left;margin:0 auto;margin-top:90%;margin-left:-15%;border:7px solid #F3D322;}
+.larg h5{margin-top:50px ;text-align:right;margin-left:10px;font-size:20px;margin-top:50px;margin-right:10px;color:black !important}
+.larg h6{font-size:14px;text-align: justify;margin-left:5px;margin-right: 5px;margin-top: -15px;color:black !important}
+
+.tope{width:8%;height:16%;background:#F3D322;float:left;margin:-42px 67px;}
+.bott{width:27.4%;height:2.5%;background:#F3D322;margin:43px 240px;}
+
+.top{width:8%;height:16%;background:#F3D322;float:left;margin:-42px 178px;}
+.bot{width:17.9%;height:2.5%;background:#F3D322;margin:42px -42.5px;float:left;}

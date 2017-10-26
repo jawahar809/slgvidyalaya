@@ -1,0 +1,36 @@
+
+
+
+
+#slideshow-wrapper {
+  width: 100%;
+  height: 550px;
+  margin:0px auto;
+}
+
+#slideshow {
+  margin-bottom: 5px;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+#slideshow img {
+  display: inline-block;
+  width: 100%;
+  height: 100%;
+  margin:0 auto;
+}
+
+.circle {
+  margin-right: 15px;
+  display: inline-block;
+  background-color: lightgrey;
+  width: 12px;
+  height: 12px;
+  border-radius: 50px;
+}
+
+.slide{width:100%;height:450px;background:grey;margin:0% auto;}
+.subslide{width:%;height:100%;background:#fff;margin:-20% auto;}  
